@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.13134, ,113.402903]
+      },
+      "properties": {
+        "marker-symbol": "rocket",
+        "name": "车陂苏宁生活广场一楼美食广场内",
+        "rate": "★☆☆☆☆",
+        "description": "抓子根本没力"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Clip doll machine in China.
